@@ -13,5 +13,5 @@ ervices:
         value: 8080
       # Prompts for a value in the Render Dashboard on creation
       # (useful for secrets)
-      - key: TMDB_KEY
+      - key: 61c75fe44e28242e4145c91b1ce593ce
         sync: false
